@@ -12,3 +12,7 @@ This repository contains the source code for a typing animation project. Built w
 - Supports multiple lines of text
 - Easy integration into existing projects
 
+#### Project Link:
+
+https://shiree998.github.io/typing-animation/
+
