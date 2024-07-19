@@ -2,7 +2,7 @@
 
 #### Description:
 
-This repository contains the source code for a typing animation project. Built with HTML, CSS, and JavaScript, the project showcases a typing effect that simulates text being typed out on the screen, enhancing the visual appeal and interactivity of your web pages.
+This repository contains the source code for a typing animation project. Built with HTML and CSS the project showcases a typing effect that simulates text being typed out on the screen, enhancing the visual appeal and interactivity of your web pages.
 
 #### Features:
 
